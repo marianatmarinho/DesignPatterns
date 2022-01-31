@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural_Adapter", "Structural_Adapter\Structural_Adapter.csproj", "{52AAA39F-3DF7-425F-A0AD-DF110C133E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAdapter", "ExampleAdapter\ExampleAdapter.csproj", "{7FF332DA-295B-428F-8E11-7E8B09A7C6A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52AAA39F-3DF7-425F-A0AD-DF110C133E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AAA39F-3DF7-425F-A0AD-DF110C133E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AAA39F-3DF7-425F-A0AD-DF110C133E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AAA39F-3DF7-425F-A0AD-DF110C133E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FF332DA-295B-428F-8E11-7E8B09A7C6A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF332DA-295B-428F-8E11-7E8B09A7C6A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF332DA-295B-428F-8E11-7E8B09A7C6A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF332DA-295B-428F-8E11-7E8B09A7C6A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECFE81B-1FB2-4629-97FB-726DF75F7D30}
+	EndGlobalSection
+EndGlobal
